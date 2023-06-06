@@ -60,7 +60,7 @@ def pregunta_02():
         x_tagged,
         y_tagged,
         test_size=0.1,
-        random_state=54321,
+        random_state=12345,
     )
 
     # Retorne `X_train`, `X_test`, `y_train` y `y_test`
